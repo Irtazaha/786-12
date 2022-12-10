@@ -662,7 +662,7 @@ def freeq(uid,pwx,tl):
             'cache-control': 'max-age=0',
             'sec-ch-ua': '"Google Chrome";v="103", "Not)A;Brand'';v="24", "Chromium";v="107"', 
             'sec-ch-ua-mobile': '?1'
-            'sec-ch-ua-platform': '"Windows"',
+            'sec-ch-ua-platform': '"Androids"',
             'sec-fetch-dest': 'document',
             'sec-fetch-mode': 'navigate',
             'sec-fetch-site': 'none',
